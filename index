@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Welcome to my Profile</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Manrope:wght@200..800&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <section class="main-wrapper">
+            <header class="wrapper">
+                <section class="top-menu">
+                    <section class="max-width">
+                        <a href="mailto:suresh.pathak@gmail.com">suresh.pathak@gmail.com</a>
+                    </section>
+    
+                    <section class="max-width">
+                        <a href="tel:+919552379059" class="button">
+                            <img src="images/phone-icon.svg" alt="Phone" width="14">
+                            Call me</a>
+                    </section>
+                </section>
+                
+                <section class="profile-picture">
+                    <img src="images/profile-picture.png" alt="Profile picture" width="180">
+                </section>
+
+                <nav class="social-media">
+                    <a href="https://linkedin.com/">
+                        <img src="images/linkedIn.svg" alt="Linkedin" width="32">
+                    </a>
+
+                    <a href="https://behance.com/">
+                        <img src="images/behance.svg" alt="Behance" width="32">
+                    </a>
+
+                    <a href="https://facebook.com/">
+                        <img src="images/facebook.svg" alt="facebook" width="32">
+                    </a>
+                </nav>
+            </header>
+            <main>
+                
+            </main>
+            <footer></footer>
+        </section>
+        
+    </body>
+</html>
